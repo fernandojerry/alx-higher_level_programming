@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
-    from fibo import *
+    from fibo import add, sub, mul, div
 
 
 a = 10
