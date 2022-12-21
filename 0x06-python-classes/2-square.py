@@ -1,12 +1,13 @@
 #!/usr/bin/python3
-
 """A module that defines a square """
 
-class Square:
-    """class square"""
 
+class Square:
+    """class square
+    """
     def __init__(self, size=0):
-        """def"""
+        """def
+        """
 
         if not isinstance(size, int):
             raise TypeError('size must be an integer')
