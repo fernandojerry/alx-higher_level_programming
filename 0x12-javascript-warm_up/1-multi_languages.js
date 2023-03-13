@@ -2,10 +2,6 @@
 
 // A script that prints 3 lines
 
-const c = 'C is fun';
-const p = 'Python is cool';
-const j = 'JavScript is amazing';
+const myVar = 'C is fun\nPython is cool\nJavaScript is amazing';
 
-console.log(c);
-console.log(p);
-console.log(j);
+console.log(myVar);
